@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572390433 source:c:\users\pc\documents\20 c++ h1\winter semester 2019\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
