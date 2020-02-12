@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575569681 source:c:\users\pc\documents\c++\dictionary with hash function version 2\main.cpp
+	<iostream>
+	<fstream>
+
