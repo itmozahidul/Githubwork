@@ -1,12 +1,4 @@
 
-/*************************************************
-Aufgabe Nr./Task No.: H3
-Nachname/Last,Family Name: Islam
-Vorname/First,Given Name: Mozahidul
-Matrikelnummer/Matriculation number: 3022958
-Uni-Email: mozahidul.islam@stud.uni-due.de
-Studiengang/Course of Studies: ISE CE
-*************************************************/
 
 
 
